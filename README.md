@@ -103,6 +103,8 @@ React Query
 
 React Flow
 
+MUI
+
 Vitest
 
 React Testing Library
