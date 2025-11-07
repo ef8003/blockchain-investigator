@@ -110,6 +110,7 @@ Node.js backend proxy
 Blockchain.com Data API
 
 Application Behavior: 
+
 🔹 Search a wallet address
 
 Loads the first N transactions for the initial node.
