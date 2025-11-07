@@ -101,7 +101,7 @@ Vite
 
 React Query
 
-React Flow
+XYFlow
 
 MUI
 
