@@ -101,10 +101,6 @@ Vite
 
 React Query
 
-MUI
-
-VisX (graph rendering)
-
 Vitest
 
 React Testing Library
